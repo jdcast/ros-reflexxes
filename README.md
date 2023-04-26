@@ -1,2 +1,2 @@
 # ros-reflexxes
-ROS package for Reflexxes
+ROS package for ReflexxesTypeII
